@@ -4,7 +4,7 @@ package Viikko_5;
 
 import java.util.*;
 
-public class TRAI_24_t22_23_skeleton {
+public class TRAI_24_t22_23_miskah {
 
     public static void main(String[] args) {
 
